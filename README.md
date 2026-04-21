@@ -257,8 +257,3 @@ Universitas Hasanuddin
 ## Lisensi
 
 Proyek ini dikembangkan untuk keperluan akademik UTS.
-```
-
----
-
-**README sudah tanpa emoji dan formatnya berbeda dari milik Alan. Ada yang mau disesuaikan lagi?** 😊
